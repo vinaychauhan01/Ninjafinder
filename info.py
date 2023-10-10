@@ -3,6 +3,6 @@ API_HASH     = "e72f588b3e4763f01eecfc3c4aa7e8ac"
 BOT_TOKEN    = "6017531522:AAGL1Pj2ksRr56clZLYyCt8mvd5MH60tis8"
 SESSION      = "
 BQFIV_cAonGTtmJTLUW6xVZWLjvvfccUV8lnYCw_GCK2oLrK92DXvbV5MpAee4k_j2CsxiBPTR-qySJUf0N_7CZ3D0v0qqw3L_-S7bXZlFHwH3Ob5CLu6AnV9gDzqYhWgo8dk-6KKBxlkEpcsiPTmgkb2ydXZgvB6m8TevR80101_oiQRnNFIJiSWseLI_hvykc3Yd0U3qXUYhQSNRR6_DbzE0mCNNzXxuX3VkDIXXRE3kmykCZuQh7K_qcP1ZpG_gJ1PvkeBs8GZQFNz1KHePGtjnfo2Ehmf1j1VcgyTE1Oz85mMIvOb0PZzvpuG-E2N3jihg8oiEFPc04vqFL8hzEUGsLVZQAAAAFWPrmkAA"
-DATABASE_URI = "mongodb+srv://vinayjaat698:<password>@cluster1.hbafc0k.mongodb.net/?retryWrites=true&w=majority"
+DATABASE_URI = "mongodb+srv://vinayjaat698:<vinay698>@cluster1.hbafc0k.mongodb.net/?retryWrites=true&w=majority"
 LOG_CHANNEL  = -1001839965169
 ADMIN        = 57419186289
