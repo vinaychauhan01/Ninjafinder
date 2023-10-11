@@ -2,6 +2,6 @@ API_ID       = 21518327
 API_HASH     = "e72f588b3e4763f01eecfc3c4aa7e8ac"
 BOT_TOKEN    = "6017531522:AAGL1Pj2ksRr56clZLYyCt8mvd5MH60tis8"
 SESSION      = "BQFIV_cAVxwP1Pp5GQxEVJArYbCCsYgP2DxJbikMqNs52NLxL5tB4Fwaav_3S1sEU-XeTm8Ikhe56PYbIsGPLDHq-X8zDJk-hiyPBSuLMoauR8RIWS-r2dhHk1alXbPpbOi7Dv4G_TCdfJtGv0-Bwv84Zo-zVpu_Efn8NKmESDozUn9DSRHhCEZbU5ids2xq8h0X59072GfSF21C6E9WrhhsUYPssupf2oUmT0S3JGvDsmLL6VVrSXKkgqQ_UV3Dm6aXpoz79H2DKQlqf4ktse7QxdQhfszs4w3OVPL_bJ_0m0EJFDLae1NCBVD0NAMdPS1h0mrDPuD3gZquaBe_4-wnBP3QigAAAAFWPrmkAA"
-DATABASE_URI = "mongodb+srv://vinayjaat:vinay123@vinay1.3yzdb9g.mongodb.net/?retryWrites=true&w=majority"
+DATABASE_URI = "mongodb+srv://vinayjaat:vinay123@vinay1.3yzdb9g.mongodb.net/?retryWrites=true&w=majoriity"
 LOG_CHANNEL  = -1001839965169
 ADMIN        = 57419186289
