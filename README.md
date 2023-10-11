@@ -3,7 +3,7 @@
 
 </p>
 <h1 align="center">
-  <b>Channel-Post-Filter</b>
+  <b>Grininja-Post-Filter</b>
 </h1>
 
 ## TG Bot [@vinaychauhanjaat](t.me/movieswala)
