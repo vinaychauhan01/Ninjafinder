@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=CHANNEL+POST+FILTER+BOT!;CREATED+BY+TECHNICAL+CYNITE!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=GRININJA+POST+FILTER+BOT!;CREATED+BY+MOVIES+WALA!)
 </p>
 
 </p>
@@ -6,7 +6,7 @@
   <b>Channel-Post-Filter</b>
 </h1>
 
-## TG Bot [@CyniteBackup](t.me/CyniteBackup)
+## TG Bot [@vinaychauhanjaat](t.me/movieswala)
 
 ## Telegram 
 
@@ -15,4 +15,4 @@
 
 ## Deploy 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TechnicalCynite/Channel-Post-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vinaychauhan01/Grininja-Post-Filter-Bot)
